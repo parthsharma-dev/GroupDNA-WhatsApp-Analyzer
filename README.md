@@ -5,10 +5,7 @@ A Python behavioural analytics and text-mining tool built for The Unlox Academy 
 
 ## Output Report (`hostel_bois.txt`)
 
-![GroupDNA Report Part 1](Screenshot%202026-11-24%20230500.png)
-![GroupDNA Report Part 2](Screenshot%202026-11-24%20230508.png)
-![GroupDNA Report Part 3](Screenshot%202026-11-24%20230521.png)
-
+![GroupDNA Report Part 1](Screenshot 2026-11-24 233002)
 ## Features Built
 1. **WhatsApp Chat Parser:** Reads raw `.txt` exports line by line and handles 5 real-world edge cases without regex—empty lines, multi-line continuations, system notifications, `<Media omitted>` stubs, and deleted messages.
 2. **Group Overview & Per-Person Stats:** Calculates total messages, date range, duration in days, ranked per-person message counts/percentages, and average words per message.
